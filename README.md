@@ -1,4 +1,3 @@
-# party_app
 
 # 🎉 Party Invitation App — Flutter + BLoC
 
@@ -7,6 +6,13 @@ Perfect for birthdays, weddings, meetups, or any celebration! 🥳
 
 Built with **BLoC** for clean architecture and reactive updates.
 
+## 📷 Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/photo1.jpeg" alt="" width="45%"/>
+  &nbsp;&nbsp;
+ 
+</p>
 ---
 
 ## ✨ Features
@@ -34,6 +40,16 @@ Built with **BLoC** for clean architecture and reactive updates.
 - **Image Picker** → [`image_picker`](https://pub.dev/packages/image_picker)
 
 ---
+
+💡 Tips
+
+📷 Use high-quality images to make invitations pop.
+
+🔒 Store event details securely if they’re private.
+
+📱 Test on different screen sizes for the best experience.
+
+
 
 ## 📁 Project Structure
 ```plaintext
@@ -76,12 +92,3 @@ Built with **BLoC** for clean architecture and reactive updates.
   flutter run
 
 
-
-
-💡 Tips
-
-    📷 Use high-quality images to make invitations pop.
-
-    🔒 Store event details securely if they’re private.
-
-    📱 Test on different screen sizes for the best experience.
